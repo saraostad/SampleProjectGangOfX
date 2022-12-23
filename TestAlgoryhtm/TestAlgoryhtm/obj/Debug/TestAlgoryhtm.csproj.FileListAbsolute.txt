@@ -1,0 +1,7 @@
+E:\Gang Of  X\tamrin\TestAlgoryhtm\TestAlgoryhtm\bin\Debug\TestAlgoryhtm.exe.config
+E:\Gang Of  X\tamrin\TestAlgoryhtm\TestAlgoryhtm\bin\Debug\TestAlgoryhtm.exe
+E:\Gang Of  X\tamrin\TestAlgoryhtm\TestAlgoryhtm\bin\Debug\TestAlgoryhtm.pdb
+E:\Gang Of  X\tamrin\TestAlgoryhtm\TestAlgoryhtm\obj\Debug\TestAlgoryhtm.csprojAssemblyReference.cache
+E:\Gang Of  X\tamrin\TestAlgoryhtm\TestAlgoryhtm\obj\Debug\TestAlgoryhtm.csproj.CoreCompileInputs.cache
+E:\Gang Of  X\tamrin\TestAlgoryhtm\TestAlgoryhtm\obj\Debug\TestAlgoryhtm.exe
+E:\Gang Of  X\tamrin\TestAlgoryhtm\TestAlgoryhtm\obj\Debug\TestAlgoryhtm.pdb
